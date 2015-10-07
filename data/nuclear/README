@@ -1,0 +1,23 @@
+========================================
+Supporting Data for Coelho et al. (2013)
+========================================
+
+This is supporting data for the paper:
+
+    Luis Pedro Coelho, Joshua D. Kangas, Armaghan Naik, Elvira Osuna-Highley,
+    Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha, Peter B. Berget,
+    Jonathan W. Jarvik, and Robert F. Murphy (2013) Local Features Provide
+    Better Generalization of Subcellular Location Classifiers to New Proteins.
+    Bioinformatics DOI: 10.1093/bioinformatics/btt392
+
+    http://dx.doi.org/10.1093/bioinformatics/btt392
+
+This paper should be cited in publications using the data and consulted for
+details.
+
+The images in this directory have been preprocessed and converted to JPEG
+format, **they should not be used for scientific research**. For the original,
+high-quality images, they are available from `Data Dryad
+<http://datadryad.org/resource/doi:10.5061/dryad.2vm70>`__
+
+
